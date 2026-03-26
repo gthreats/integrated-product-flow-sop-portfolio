@@ -10,7 +10,7 @@ The objective of this model is to ensure alignment across planning, inventory po
 
 ## Product Flow Structure
 
-Supplier → Distribution Center (DC) → Store → Customer
+**Supplier → Distribution Center (DC) → Store → Customer**
 
 Each stage in the flow introduces dependencies, risks, and opportunities for optimization.
 
@@ -40,6 +40,7 @@ Each stage in the flow introduces dependencies, risks, and opportunities for opt
 - Picking and replenishment execution
 
 **Operational Insight:**
+
 Gaps in scan activity or inefficient slotting can create downstream delays that impact store availability.
 
 **Common Risks:**
@@ -94,7 +95,7 @@ To effectively manage product flow, I focus on identifying constraints across:
 
 ## Example Operational Insight
 
-In distribution center environments, analyzing time between scan events can reveal hidden inefficiencies in labor execution and flow disruptions.  
+In distribution center environments, analyzing time between scan events can reveal hidden inefficiencies in labor execution and flow disruptions.
 
 These gaps often indicate:
 - Process breakdowns  
