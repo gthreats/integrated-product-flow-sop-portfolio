@@ -1,4 +1,4 @@
-# integrated-product-flow-sop-portfolio
+
 # Integrated Product Flow & S&OP Portfolio
 
 This portfolio demonstrates how I approach end-to-end product flow, Sales & Operations Planning (S&OP), inventory strategy, operational risk management, and cross-functional execution across supply chain environments.
